@@ -47,3 +47,4 @@ Language Development – Plays a crucial role in designing and implementing prog
 Compiler design is a fundamental aspect of computer science that ensures the smooth translation of high-level code into machine-executable instructions. A well-structured compiler improves program efficiency, portability, and overall performance, making it a crucial component of software development.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/7237322a-669a-4edb-94a1-94802d87bd4d)
